@@ -1,0 +1,154 @@
+{
+  "name": "Skills Tree",
+  "description": "A high-level general-purpose programming language.",
+  "info1": "First released in 1991.",
+  "info2": "Designed by Guido van Rossum.",
+  "info3": "Emphasizes code readability.",
+  "url": "https://docs.python.org/3/",
+  "children": [
+    {
+      "name": "Programming Languages",
+      "description": "A high-level general-purpose programming language.",
+      "info1": "First released in 1991.",
+      "info2": "Designed by Guido van Rossum.",
+      "info3": "Emphasizes code readability.",
+      "url": "https://docs.python.org/3/",
+      "children": [
+        {
+          "name": "Python",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "JavaScript",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },        
+        {
+          "name": "Java",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        }
+      ]
+    },
+    {
+      "name": "Web Development",
+      "description": "A high-level general-purpose programming language.",
+      "info1": "First released in 1991.",
+      "info2": "Designed by Guido van Rossum.",
+      "info3": "Emphasizes code readability.",
+      "url": "https://docs.python.org/3/",
+      "children": [
+        {
+          "name": "HTML",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "CSS",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "React",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Vue.js",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        }
+      ]
+    },
+    {
+      "name": "Database",
+      "description": "A high-level general-purpose programming language.",
+      "info1": "First released in 1991.",
+      "info2": "Designed by Guido van Rossum.",
+      "info3": "Emphasizes code readability.",
+      "url": "https://docs.python.org/3/",
+      "children": [
+        {
+          "name": "SQL",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "MongoDB",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "MySQL",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        }
+      ]
+    },
+    {
+      "name": "Test analýza",
+      "description": "LOREM IPSUM",
+      "info1": "Kratky popis",
+      "info2": "",
+      "info3": "",
+      "url": "https://docs.python.org/3/",
+      "children": [
+        {
+          "name": "Revize dokumentù",
+          "description": "Nalezení a oprava nejasností v zadání",
+          "info1": "Pøidaná hodnota: Vyjasnìné a opravené zadání nebo oèekávání; zvýšení dùvìry v zadání",
+          "info2": "Vzdìlávání: školení Test analýza prakticky",
+          "info3": "Výstup: komentáø k souboru vstupních dokumentù",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Analýza testovacích dat",
+          "description": "Vyhodnocení na základì specifikace, jaké množství testovacích dat s jakými vlastnostmi bude tøeba",
+          "info1": "Pøidaná hodnota: Definice potøebných dat pro následnou exekuci",
+          "info2": "Vzdìlávání: školení Test analýza prakticky",
+          "info3": "Výstup: soubor požadavkù na data",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Studování test báze",
+          "description": "Studium dokumentù k projektu / rozhovory s lidmi (uživatelé, BA, PO, ...atd.)",
+          "info1": "Pøidaná hodnota: Nalezení chyb v návrhu; dokážu psát TC na míru systému, a zároveò požadavkùm a potøeb klienta",
+          "info2": "Vzdìlávání: školení Test analýza prakticky",
+          "info3": "Výstup: seznam požadavkù, který bude pokryt TC; seznam cílù testování (mind map)",
+          "url": "https://docs.python.org/3/"
+        }
+      ]
+    }
+  ]
+}

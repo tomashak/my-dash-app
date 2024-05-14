@@ -4,7 +4,7 @@
   "info1": "First released in 1991.",
   "info2": "Designed by Guido van Rossum.",
   "info3": "Emphasizes code readability.",
-  "url": "https://docs.python.org/3/",
+  "url": "Skriptování Bash, Python, PowerShell.md",
   "children": [
     {
       "name": "Programming Languages",
@@ -12,7 +12,7 @@
       "info1": "First released in 1991.",
       "info2": "Designed by Guido van Rossum.",
       "info3": "Emphasizes code readability.",
-      "url": "https://docs.python.org/3/",
+      "url": "Skriptování Bash, Python, PowerShell.md",
       "children": [
         {
           "name": "Python",
@@ -20,7 +20,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "PYTHON Základní datové typy.md"
         },
         {
           "name": "JavaScript",
@@ -28,7 +28,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "JS console log.md"
         },        
         {
           "name": "Java",
@@ -36,7 +36,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "Java Tøídy.md"
         }
       ]
     },
@@ -108,6 +108,146 @@
         },
         {
           "name": "MySQL",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        }
+      ]
+    },
+    {
+      "name": "Úvod do test automatizace",
+      "description": "A high-level general-purpose programming language.",
+      "info1": "First released in 1991.",
+      "info2": "Designed by Guido van Rossum.",
+      "info3": "Emphasizes code readability.",
+      "url": "Algoritmizace.md",
+      "children": [
+        {
+          "name": "Algoritmizace",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "Algoritmizace.md",
+          "children": [
+            {
+              "name": "Skriptování Bash, Python, PowerShell",
+              "description": "A high-level general-purpose programming language.",
+              "info1": "First released in 1991.",
+              "info2": "Designed by Guido van Rossum.",
+              "info3": "Emphasizes code readability.",
+              "url": "Skriptování Bash, Python, PowerShell.md"
+            },
+            {
+              "name": "Procedurální (Python, Ruby)",
+              "description": "A high-level general-purpose programming language.",
+              "info1": "First released in 1991.",
+              "info2": "Designed by Guido van Rossum.",
+              "info3": "Emphasizes code readability.",
+              "url": "Procedurální (Python, Ruby).md"
+            },
+            {
+              "name": "Event-Driven (JavaScript)",
+              "description": "A high-level general-purpose programming language.",
+              "info1": "First released in 1991.",
+              "info2": "Designed by Guido van Rossum.",
+              "info3": "Emphasizes code readability.",
+              "url": "Event-Driven (JavaScript).md"
+            },
+            {
+              "name": "Deklarativní (SQL)",
+              "description": "A high-level general-purpose programming language.",
+              "info1": "First released in 1991.",
+              "info2": "Designed by Guido van Rossum.",
+              "info3": "Emphasizes code readability.",
+              "url": "Deklarativní SQL, XQuery, DAX.md"
+            }
+          ]
+        },
+        {
+          "name": "UML diagramy",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "UML diagramy.md"
+        },
+        {
+          "name": "Práce s pøíkazovou øádkou",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Verzovací systémy",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "GIT",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "HTML/CSS",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Lokátory elementù na webové stránce",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Selenium IDE",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Selenium WebDriver",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "TestNG",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Jenkins CI/CD",
+          "description": "A high-level general-purpose programming language.",
+          "info1": "First released in 1991.",
+          "info2": "Designed by Guido van Rossum.",
+          "info3": "Emphasizes code readability.",
+          "url": "https://docs.python.org/3/"
+        },
+        {
+          "name": "Práce s pøíkazovou øádkou",
           "description": "A high-level general-purpose programming language.",
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",

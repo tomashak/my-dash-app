@@ -57,10 +57,10 @@ def register_callbacks(app):
     )
     @app.callback(
         Output('markdown-container', 'children'),
-        Input('skills-tree', 'hoverData')
+        Input('skills-tree', 'clickData')
     )
-    def update_markdown_callback(hoverData):
-        return update_markdown(hoverData)
+    def update_markdown_callback(clickData):
+        return update_markdown(clickData)
     pass
 
 
@@ -74,16 +74,16 @@ def update_skills_tree(selected_skill):
 
 
 
-def update_markdown(hoverData):
-    logging.debug("Update markdown=" + json.dumps(hoverData))
+def update_markdown(clickData):
+    logging.debug("Update markdown=" + json.dumps(clickData))
     # Load the skills tree data from the JSON file
     with codecs.open('app/data/skills_tree.json', 'r', encoding='cp1250', errors='ignore') as file:
         skills_tree = json.load(file)
 
     _, _, _, _, _, urls, _, _ = convert_to_sunburst_format(skills_tree)
 
-    if hoverData is not None:
-        point_index = hoverData['points'][0]['pointNumber']
+    if clickData is not None:
+        point_index = clickData['points'][0]['pointNumber']
         md_file_path = urls[point_index]
         try:
             with open('app/data/obsidian/'+md_file_path, 'r', encoding='utf-8', errors='ignore') as file:

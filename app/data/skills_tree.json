@@ -46,7 +46,7 @@
       "info1": "First released in 1991.",
       "info2": "Designed by Guido van Rossum.",
       "info3": "Emphasizes code readability.",
-      "url": "https://docs.python.org/3/",
+      "url": "Web Development.md",
       "children": [
         {
           "name": "HTML",
@@ -54,7 +54,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "HTML CSS.md"
         },
         {
           "name": "CSS",
@@ -62,7 +62,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "HTML CSS.md"
         },
         {
           "name": "React",
@@ -70,7 +70,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "React.md"
         },
         {
           "name": "Vue.js",
@@ -78,17 +78,17 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "Vue.js.md"
         }
       ]
-    },
+    },    
     {
       "name": "Database",
       "description": "A high-level general-purpose programming language.",
       "info1": "First released in 1991.",
       "info2": "Designed by Guido van Rossum.",
       "info3": "Emphasizes code readability.",
-      "url": "https://docs.python.org/3/",
+      "url": "SQL Instalace, základní orientace.md",
       "children": [
         {
           "name": "SQL",
@@ -96,7 +96,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "SQL Základní datové typy.md"
         },
         {
           "name": "MongoDB",
@@ -104,7 +104,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "mongodb.md"
         },
         {
           "name": "MySQL",
@@ -112,12 +112,12 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "mysql.md"
         }
       ]
     },
     {
-      "name": "Úvod do test automatizace",
+      "name": "Uvod do test automatizace",
       "description": "A high-level general-purpose programming language.",
       "info1": "First released in 1991.",
       "info2": "Designed by Guido van Rossum.",
@@ -141,12 +141,12 @@
               "url": "Skriptování Bash, Python, PowerShell.md"
             },
             {
-              "name": "Procedurální (Python, Ruby)",
+              "name": "Procedur˜ln˜ (Python, Ruby)",
               "description": "A high-level general-purpose programming language.",
               "info1": "First released in 1991.",
               "info2": "Designed by Guido van Rossum.",
               "info3": "Emphasizes code readability.",
-              "url": "Procedurální (Python, Ruby).md"
+              "url": "Procedurální Python, Ruby.md"
             },
             {
               "name": "Event-Driven (JavaScript)",
@@ -157,7 +157,7 @@
               "url": "Event-Driven (JavaScript).md"
             },
             {
-              "name": "Deklarativní (SQL)",
+              "name": "Deklarativn˜ (SQL)",
               "description": "A high-level general-purpose programming language.",
               "info1": "First released in 1991.",
               "info2": "Designed by Guido van Rossum.",
@@ -175,12 +175,12 @@
           "url": "UML diagramy.md"
         },
         {
-          "name": "Práce s pøíkazovou øádkou",
+          "name": "Pr˜ce s p˜˜kazovou ˜˜dkou",
           "description": "A high-level general-purpose programming language.",
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "Práce s pøíkazovou øádkou.md"
         },
         {
           "name": "Verzovací systémy",
@@ -188,7 +188,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "Verzovací systémy.md"
         },
         {
           "name": "GIT",
@@ -196,7 +196,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "Git.md"
         },
         {
           "name": "HTML/CSS",
@@ -204,7 +204,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "HTML CSS.md"
         },
         {
           "name": "Lokátory elementù na webové stránce",
@@ -212,7 +212,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "Lokátory elementù na webové stránce.md"
         },
         {
           "name": "Selenium IDE",
@@ -220,7 +220,7 @@
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "selenium.md"
         },
         {
           "name": "Selenium WebDriver",
@@ -247,12 +247,12 @@
           "url": "https://docs.python.org/3/"
         },
         {
-          "name": "Práce s pøíkazovou øádkou",
+          "name": "Pr˜ce s p˜˜kazovou ˜˜dkou",
           "description": "A high-level general-purpose programming language.",
           "info1": "First released in 1991.",
           "info2": "Designed by Guido van Rossum.",
           "info3": "Emphasizes code readability.",
-          "url": "https://docs.python.org/3/"
+          "url": "Práce s pøíkazovou øádkou.md"
         }
       ]
     },
@@ -262,31 +262,31 @@
       "info1": "Kratky popis",
       "info2": "",
       "info3": "",
-      "url": "https://docs.python.org/3/",
+      "url": "TA High Level analýza.md",
       "children": [
         {
           "name": "Revize dokumentù",
-          "description": "Nalezení a oprava nejasností v zadání",
-          "info1": "Pøidaná hodnota: Vyjasnìné a opravené zadání nebo oèekávání; zvýšení dùvìry v zadání",
-          "info2": "Vzdìlávání: školení Test analýza prakticky",
-          "info3": "Výstup: komentáø k souboru vstupních dokumentù",
-          "url": "https://docs.python.org/3/"
+          "description": "Nalezen˜ a oprava nejasnost˜ v zad˜n˜",
+          "info1": "P˜idan˜ hodnota: Vyjasn˜n˜ a opraven˜ zad˜n˜ nebo o˜ek˜v˜n˜; zv˜˜en˜ d˜v˜ry v zad˜n˜",
+          "info2": "Vzd˜l˜v˜n˜: ˜kolen˜ Test anal˜za prakticky",
+          "info3": "V˜stup: koment˜˜ k souboru vstupn˜ch dokument˜",
+          "url": "TA Revize dokumentù.md"
         },
         {
-          "name": "Analýza testovacích dat",
-          "description": "Vyhodnocení na základì specifikace, jaké množství testovacích dat s jakými vlastnostmi bude tøeba",
-          "info1": "Pøidaná hodnota: Definice potøebných dat pro následnou exekuci",
-          "info2": "Vzdìlávání: školení Test analýza prakticky",
-          "info3": "Výstup: soubor požadavkù na data",
-          "url": "https://docs.python.org/3/"
+          "name": "Anal˜za testovac˜ch dat",
+          "description": "Vyhodnocen˜ na z˜klad˜ specifikace, jak˜ mno˜stv˜ testovac˜ch dat s jak˜mi vlastnostmi bude t˜eba",
+          "info1": "P˜idan˜ hodnota: Definice pot˜ebn˜ch dat pro n˜slednou exekuci",
+          "info2": "Vzd˜l˜v˜n˜: ˜kolen˜ Test anal˜za prakticky",
+          "info3": "V˜stup: soubor po˜adavk˜ na data",
+          "url": "TA Analýza testovacích dat.md"
         },
         {
-          "name": "Studování test báze",
-          "description": "Studium dokumentù k projektu / rozhovory s lidmi (uživatelé, BA, PO, ...atd.)",
-          "info1": "Pøidaná hodnota: Nalezení chyb v návrhu; dokážu psát TC na míru systému, a zároveò požadavkùm a potøeb klienta",
-          "info2": "Vzdìlávání: školení Test analýza prakticky",
-          "info3": "Výstup: seznam požadavkù, který bude pokryt TC; seznam cílù testování (mind map)",
-          "url": "https://docs.python.org/3/"
+          "name": "Studov˜n˜ test b˜ze",
+          "description": "Studium dokument˜ k projektu / rozhovory s lidmi (u˜ivatel˜, BA, PO, ...atd.)",
+          "info1": "P˜idan˜ hodnota: Nalezen˜ chyb v n˜vrhu; dok˜u ps˜t TC na m˜ru syst˜mu, a z˜rove˜ po˜adavk˜m a pot˜eb klienta",
+          "info2": "Vzd˜l˜v˜n˜: ˜kolen˜ Test anal˜za prakticky",
+          "info3": "V˜stup: seznam po˜adavk˜, kter˜ bude pokryt TC; seznam c˜l˜ testov˜n˜ (mind map)",
+          "url": "TA Studování test báze.md"
         }
       ]
     }
